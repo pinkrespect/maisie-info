@@ -20,7 +20,7 @@
 ### 라이브러리
 - [Flask](https://github.com/pallets/flask)
 - [SQLAlchemy](https://github.com/zzzeek/sqlalchemy)
-- [Github API](https://developer.github.com/v3/)
+- [Github API](https://developer.github.com/v3/) - [GutHub-Flask](https://github-flask.readthedocs.io/en/latest/)
 
 ### TODO
 - [ ] Python - SQLAlchemy
