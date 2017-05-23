@@ -15,7 +15,8 @@
 - 수시로 업데이트 하자
 
 ### 스펙
-- Python 3
+- 사용 언어: [Python 3](https://www.python.org/)
+- 사용 웹 서버: [Nginx](https://nginx.org/en/)
 
 ### 라이브러리
 - [Flask](https://github.com/pallets/flask)
