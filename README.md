@@ -17,6 +17,7 @@
 ### 스펙
 - 사용 언어: [Python 3](https://www.python.org/)
 - 사용 웹 서버: [Nginx](https://nginx.org/en/)
+- 사용 DB: [SQLlite3](https://www.sqlite.org/)
 
 ### 라이브러리
 - [Flask](https://github.com/pallets/flask)
